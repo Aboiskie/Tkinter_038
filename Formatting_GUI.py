@@ -5,3 +5,5 @@ def hitung_prediksi():
 
 top = tk.Tk()
 top.title("Aplikasi Prediksi")  
+top.geometry("380x550")
+
