@@ -35,3 +35,13 @@ L5.grid(row=5, column=0, sticky="w", padx=20, pady=2)
 E5 = tk.Entry(top, bd=3)
 E5.grid(row=5, column=1, padx=20, pady=2)
 
+L6 = tk.Label(top, text="Nilai Mapel 6: ")
+L6.grid(row=6, column=0, sticky="w", padx=20, pady=2)
+E6 = tk.Entry(top, bd=3)
+E6.grid(row=6, column=1, padx=20, pady=2)
+
+L7 = tk.Label(top, text="Nilai Mapel 7: ")
+L7.grid(row=7, column=0, sticky="w", padx=20, pady=2)
+E7 = tk.Entry(top, bd=3)
+E7.grid(row=7, column=1, padx=20, pady=2)
+
