@@ -7,3 +7,4 @@ top = tk.Tk()
 top.title("Aplikasi Prediksi")  
 top.geometry("380x550")
 
+judul = tk.Label(top, text="Aplikasi prediksi Prodi Pilihan")
